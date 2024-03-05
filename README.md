@@ -36,7 +36,8 @@ analysis and visualizations to answer some other questions are also provided in 
 
 
 
-![Screenshot (221)](https://github.com/Sushrk21/zomato-data-analysis/assets/91313477/1123363f-58f8-430
+![Screenshot (221)](https://github.com/Sushrk21/zomato-data-analysis/assets/91313477/598e17f5-3b34-4c85-b417-b599a75a31e7)
+
 
 
 
